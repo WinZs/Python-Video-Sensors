@@ -1,3 +1,3 @@
 # Python Video Sensor
-ploplpopplop
-blaaaaahhh blaaahhh 
+
+ref : http://www.embedded-artist.net/doku.php?id=python_omxplayer
