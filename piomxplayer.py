@@ -6,6 +6,7 @@ from time import sleep
 
 # Embedded Artist fork of pyomxplayer
 # added faster/slower functions
+# modif by WinZs Sept2017
 
 class OMXPlayer(object):
 
